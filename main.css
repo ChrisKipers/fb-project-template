@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    background-color: #e9eaed;
+}
+
+.fb_bar {
+    background-color: #3a5795;
+    min-height: 50px;
+}
